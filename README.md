@@ -6,7 +6,7 @@ In the second half of the class, we learned how to use MySQL and conduct queries
 ## Individual Projects Overview
 <br>[Database Design Language](IP3/IP3_SQLDDL.sql)
 <br>[<b>Description</b>](IP3/ISM4210_IP3.pdf)
-<b>Summary: </b> In this assignment, we created a database for the Hippodrome (a local Gainesville theater) in mySQL. We are using CREATE and ALTER statements to make our tables, and finally using the SELECT and DESC statement to show what is populated within our tables.
+<br><b>Summary: </b> In this assignment, we created a database for the Hippodrome (a local Gainesville theater) in mySQL. We are using CREATE and ALTER statements to make our tables, and finally using the SELECT and DESC statement to show what is populated within our tables.
 
 [Single Table Queries](IP4/IP4_SingleTableQueries.sql)
 <br>[<b>Description</b>](IP4/ISM4210_IP4.pdf)
