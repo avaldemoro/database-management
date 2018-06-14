@@ -5,13 +5,13 @@ This repository is dedicated to providing the solutions for the assignments to I
 In the second half of the class, we learned how to use MySQL and conduct queries to apply what we learned in the first half of the class. 
 ## Individual Projects Overview
 ### [Database Design Language](IP3/IP3_SQLDDL.sql)
-<br>[<b>Description</b>](IP3/ISM4210_IP3.pdf)
+[<b>Description</b>](IP3/ISM4210_IP3.pdf)
 <br><b>Summary: </b> In this assignment, we created a database for the Hippodrome (a local Gainesville theater) in mySQL. We are using CREATE and ALTER statements to make our tables, and finally using the SELECT and DESC statement to show what is populated within our tables.
 
 ### [Single Table Queries](IP4/IP4_SingleTableQueries.sql)
-<br>[<b>Description</b>](IP4/ISM4210_IP4.pdf)
+[<b>Description</b>](IP4/ISM4210_IP4.pdf)
 <br><b>Summary: </b> In this assignment, we wrote single table queries to use the data in the [Hippodrome database](TheHipp.sql). The queries we wrote are listed in the description.
 
 ### [Multiple Table Queries](IP5/IP5Code.sql)
-<br>[<b>Description</b>](IP5/ISM4210_IP5.pdf)
+[<b>Description</b>](IP5/ISM4210_IP5.pdf)
 <br><b>Summary: </b> In this assignment, we wrote multiple table queries to use the data in the [Hippodrome database](TheHipp.sql). The queries we wrote are listed in the description.
